@@ -2,7 +2,7 @@
 void main()
 {
     int nums[] = {5, 2, 1, 8, 4, 9, 7, 11, 3, 6};
-    int len = sizeof(nums) / sizeof(nums[0]);
+    int len = 10;
 
     int pos, ele;
     printf("enter the position to enter the element\n");
